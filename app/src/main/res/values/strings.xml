@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="name">Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="add_image">Add image</string>
+    <string name="save">Save</string>
+    <string name="cannot_update_data">Unable to update data</string>
+    <string name="no_stock">No stock</string>
+    <string name="select_valid_image">Please select a valid image</string>
+    <string name="select_valid_price">Please enter a valid price</string>
+    <string name="select_valid_quantity">Please enter a valid quantity</string>
+    <string name="select_valid_name">Please enter a valid name</string>
+    <string name="add_product">Add Product</string>
+    <string name="add_menu">Add</string>
+    <string name="add_an_item">Add an item to populate the list</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="order_stock">Order stock</string>
+    <string name="delete">Delete</string>
+    <string name="delete_successful">Delete Successful</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete_confirmation_message">Are you sure?</string>
+    <string name="delete_confirmation_title">Delete?</string>
+</resources>
